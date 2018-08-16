@@ -6,7 +6,7 @@ class Fibbonici {
 			}
 			return m1(n-1) + m1(n-2);
 			
-	}
+	} 
 	public static void main(String[] args) {
 
 		int n = 12;

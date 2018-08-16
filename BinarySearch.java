@@ -27,6 +27,7 @@ public class BinarySearch {
 			if(a[mid]==key) {
 
 				System.out.println("Key found");
+				System.out.println("Index of Key is "+mid);
 				break;
 
 			}else if(key < a[mid]) {
@@ -42,8 +43,6 @@ public class BinarySearch {
 	}
 
 	public static void main(String[] args) {
-
-		
 		 m1();
 
 	}
