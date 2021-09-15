@@ -6,7 +6,7 @@ class Boxing {
 		// System.out.println(i);
 
 		Integer i = 20;
-		int ii = i.intValue();
-		System.out.println(ii);
+		int value = i.intValue();
+		System.out.println(value);
 	}
 }
